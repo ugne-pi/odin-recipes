@@ -1,0 +1,1 @@
+This is a website created as an html exercise for The Odin Project.
